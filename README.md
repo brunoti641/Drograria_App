@@ -1,2 +1,2 @@
 # Drograria_App
-É uma aplicativo Que eu fiz para uma Drogaria.
+É um aplicativo que eu fiz para uma Drogaria.
